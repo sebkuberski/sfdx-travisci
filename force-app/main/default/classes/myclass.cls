@@ -1,5 +1,5 @@
 public with sharing class myclass {
-	public myclass() {//test
+	public myclass() {
 
 	}
 
